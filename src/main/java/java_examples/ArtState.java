@@ -41,6 +41,7 @@ public class ArtState implements ContractState {
         return title;
     }
 
+
     public Party getAppraiser() {
         return appraiser;
     }
